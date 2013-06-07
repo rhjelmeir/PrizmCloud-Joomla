@@ -10,7 +10,7 @@ View a [demo](http://prizmcloud.accusoft.com/demo.html)
 1. Download the zip file and unzip.
 2. Login into Joomla! Administration and navigate to Extension Manager.
 3. You will see something similar to 'Upload Package File'.
-4. Select the PRizmCloud-Joomla.zip file and install.
+4. Select the PrizmCloud-Joomla.zip file and install.
 5. Within the Plug-in Manager, find Content - PrizmCloud Document Viewer and Button - PrizmCloud Document Viewer and enable both plugins.
 6. Within the Content - PrizmCloud Viewer Plugin Basic Options, add your PrizmCloud Key
 
